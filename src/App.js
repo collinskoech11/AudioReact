@@ -1,5 +1,6 @@
 
 import './App.css';
+import ReactAudioPlayer from 'react-audio-player';
 
 function App() {
   return (
